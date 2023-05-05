@@ -154,7 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Chukuma Uche Daniel
 Igwuoku Christabel
 
 ## License
